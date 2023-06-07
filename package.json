@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "config-plugin-react-native-intercom",
   "version": "0.0.1",
   "scripts": {
     "example": "yarn workspace @expo/app",
